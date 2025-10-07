@@ -13,6 +13,9 @@
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Sickit learn](https://img.shields.io/badge/scikit%20learn-%2320232a.svg?style=flat&logo=scikit%20learn&logoColor=%2361DAFB)
+![numpy](https://img.shields.io/badge/numpy-%2320232a.svg?style=flat&logo=numpy&logoColor=%2361DAFB)
+![pandas](https://img.shields.io/badge/pandas-323330?style=flat&logo=pandas&logoColor=F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -25,6 +28,8 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/react-%2302569B.svg?style=flat&logo=react&logoColor=white)
+
 
 ```dart
 // tools_I_use organized
